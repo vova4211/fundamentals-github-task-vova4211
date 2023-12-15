@@ -1,0 +1,15 @@
+D:\LABORATORNA\HomeWork4\bin\Debug\net6.0\HomeWork4.exe
+D:\LABORATORNA\HomeWork4\bin\Debug\net6.0\HomeWork4.deps.json
+D:\LABORATORNA\HomeWork4\bin\Debug\net6.0\HomeWork4.runtimeconfig.json
+D:\LABORATORNA\HomeWork4\bin\Debug\net6.0\HomeWork4.dll
+D:\LABORATORNA\HomeWork4\bin\Debug\net6.0\HomeWork4.pdb
+D:\LABORATORNA\HomeWork4\obj\Debug\net6.0\HomeWork4.csproj.AssemblyReference.cache
+D:\LABORATORNA\HomeWork4\obj\Debug\net6.0\HomeWork4.GeneratedMSBuildEditorConfig.editorconfig
+D:\LABORATORNA\HomeWork4\obj\Debug\net6.0\HomeWork4.AssemblyInfoInputs.cache
+D:\LABORATORNA\HomeWork4\obj\Debug\net6.0\HomeWork4.AssemblyInfo.cs
+D:\LABORATORNA\HomeWork4\obj\Debug\net6.0\HomeWork4.csproj.CoreCompileInputs.cache
+D:\LABORATORNA\HomeWork4\obj\Debug\net6.0\HomeWork4.dll
+D:\LABORATORNA\HomeWork4\obj\Debug\net6.0\refint\HomeWork4.dll
+D:\LABORATORNA\HomeWork4\obj\Debug\net6.0\HomeWork4.pdb
+D:\LABORATORNA\HomeWork4\obj\Debug\net6.0\HomeWork4.genruntimeconfig.cache
+D:\LABORATORNA\HomeWork4\obj\Debug\net6.0\ref\HomeWork4.dll
